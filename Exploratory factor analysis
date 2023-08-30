@@ -34,18 +34,18 @@
       "metadata": {
         "id": "tdFbj5d25com"
       },
-      "execution_count": 42,
+      "execution_count": 50,
       "outputs": []
     },
     {
       "cell_type": "code",
-      "execution_count": 43,
+      "execution_count": 51,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
         "id": "pyYPADm441iT",
-        "outputId": "50d9862c-0f98-4394-c4b2-772eb9a528cd"
+        "outputId": "cf10f225-8bb5-47a5-a266-73891fd1297a"
       },
       "outputs": [
         {
@@ -78,9 +78,9 @@
           "height": 738
         },
         "id": "sOPJ9e7b5MN1",
-        "outputId": "a2cf3511-4735-4387-9626-71c3a7f4de89"
+        "outputId": "f008808a-ed2e-4228-cef2-74d6d01cceda"
       },
-      "execution_count": 44,
+      "execution_count": 52,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -272,7 +272,7 @@
             ],
             "text/html": [
               "\n",
-              "  <div id=\"df-1aa766b4-95d7-4320-a3e1-aa8d417446b7\" class=\"colab-df-container\">\n",
+              "  <div id=\"df-97c48c16-3bde-4213-a935-0f74d72289f1\" class=\"colab-df-container\">\n",
               "    <div>\n",
               "<style scoped>\n",
               "    .dataframe tbody tr th:only-of-type {\n",
@@ -586,7 +586,7 @@
               "    <div class=\"colab-df-buttons\">\n",
               "\n",
               "  <div class=\"colab-df-container\">\n",
-              "    <button class=\"colab-df-convert\" onclick=\"convertToInteractive('df-1aa766b4-95d7-4320-a3e1-aa8d417446b7')\"\n",
+              "    <button class=\"colab-df-convert\" onclick=\"convertToInteractive('df-97c48c16-3bde-4213-a935-0f74d72289f1')\"\n",
               "            title=\"Convert this dataframe to an interactive table.\"\n",
               "            style=\"display:none;\">\n",
               "\n",
@@ -638,12 +638,12 @@
               "\n",
               "    <script>\n",
               "      const buttonEl =\n",
-              "        document.querySelector('#df-1aa766b4-95d7-4320-a3e1-aa8d417446b7 button.colab-df-convert');\n",
+              "        document.querySelector('#df-97c48c16-3bde-4213-a935-0f74d72289f1 button.colab-df-convert');\n",
               "      buttonEl.style.display =\n",
               "        google.colab.kernel.accessAllowed ? 'block' : 'none';\n",
               "\n",
               "      async function convertToInteractive(key) {\n",
-              "        const element = document.querySelector('#df-1aa766b4-95d7-4320-a3e1-aa8d417446b7');\n",
+              "        const element = document.querySelector('#df-97c48c16-3bde-4213-a935-0f74d72289f1');\n",
               "        const dataTable =\n",
               "          await google.colab.kernel.invokeFunction('convertToInteractive',\n",
               "                                                    [key], {});\n",
@@ -663,8 +663,8 @@
               "  </div>\n",
               "\n",
               "\n",
-              "<div id=\"df-88c4e447-e8b1-4a44-b805-5126458a44f1\">\n",
-              "  <button class=\"colab-df-quickchart\" onclick=\"quickchart('df-88c4e447-e8b1-4a44-b805-5126458a44f1')\"\n",
+              "<div id=\"df-99396d48-dbc6-4a2b-94eb-281a8115c14e\">\n",
+              "  <button class=\"colab-df-quickchart\" onclick=\"quickchart('df-99396d48-dbc6-4a2b-94eb-281a8115c14e')\"\n",
               "            title=\"Suggest charts.\"\n",
               "            style=\"display:none;\">\n",
               "\n",
@@ -715,7 +715,7 @@
               "    }\n",
               "    (() => {\n",
               "      let quickchartButtonEl =\n",
-              "        document.querySelector('#df-88c4e447-e8b1-4a44-b805-5126458a44f1 button');\n",
+              "        document.querySelector('#df-99396d48-dbc6-4a2b-94eb-281a8115c14e button');\n",
               "      quickchartButtonEl.style.display =\n",
               "        google.colab.kernel.accessAllowed ? 'block' : 'none';\n",
               "    })();\n",
@@ -726,7 +726,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 44
+          "execution_count": 52
         }
       ]
     },
@@ -740,9 +740,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "ggo6W0h8-yTG",
-        "outputId": "ed7440ce-5290-4cb5-b78d-e7fa3299822d"
+        "outputId": "5ea47fa0-522e-45cb-a866-2c2fbc421a7b"
       },
-      "execution_count": 45,
+      "execution_count": 53,
       "outputs": [
         {
           "output_type": "stream",
@@ -799,9 +799,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "HAWsiza7-4Wa",
-        "outputId": "f1efe0f8-0745-4b38-8e32-b08680f43060"
+        "outputId": "a45ab870-04f0-41cb-f7cb-300dc538d04b"
       },
-      "execution_count": 46,
+      "execution_count": 54,
       "outputs": [
         {
           "output_type": "stream",
@@ -884,9 +884,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "Eh4I9XhH-_l9",
-        "outputId": "2750a236-dced-47f2-bf59-886bb3f0ee40"
+        "outputId": "32f3a402-45f0-4a48-aeff-8f0ea37a745f"
       },
-      "execution_count": 47,
+      "execution_count": 55,
       "outputs": [
         {
           "output_type": "stream",
@@ -1041,9 +1041,9 @@
           "height": 1000
         },
         "id": "MMNeFub1hXNY",
-        "outputId": "d5c26593-0b34-4c84-b663-b2cceecaa644"
+        "outputId": "1119aec7-92ad-4301-b8e1-a41fa2942c19"
       },
-      "execution_count": 48,
+      "execution_count": 56,
       "outputs": [
         {
           "output_type": "stream",
@@ -1428,9 +1428,9 @@
           "height": 1000
         },
         "id": "VAsouUuLmAaJ",
-        "outputId": "fd23169f-e94b-42a4-d83c-ee2f864cd18d"
+        "outputId": "87e9080e-f50b-4318-eadf-762b1d99944c"
       },
-      "execution_count": null,
+      "execution_count": 57,
       "outputs": [
         {
           "output_type": "stream",
@@ -1614,9 +1614,9 @@
           "height": 1000
         },
         "id": "S_gH7m7mnK1B",
-        "outputId": "f86e8e93-0286-4748-9ec4-ce0b48cee1d7"
+        "outputId": "24d37c07-afb3-4153-fe62-09d668a28f64"
       },
-      "execution_count": 49,
+      "execution_count": 58,
       "outputs": [
         {
           "output_type": "stream",
